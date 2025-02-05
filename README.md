@@ -24,3 +24,5 @@ cd gemini-chatbot
 Ensure you have Python installed (>=3.7). Then, install required libraries:
 !pip install python-dotenv
 !pip install google-generativeai
+
+Contributors: Madhur Gusain, Riddhi Das
